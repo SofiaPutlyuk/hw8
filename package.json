@@ -1,7 +1,7 @@
 {
   "name": "hw8",
   "version": "0.1.0",
-  "homepage":"https://github.com/SofiaPutlyuk/hw8",
+  "homepage": "https://sofiaputlyuk.github.io/hw8",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
